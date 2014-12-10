@@ -1,0 +1,32 @@
+.tz_multi_item img {
+    padding: 5px 0;
+}
+.tz_multi_item {
+    display: inline-block;
+    padding: 5px 15px;
+}
+.tz_multi_list li{
+    list-style: none;
+}
+.tz_multi_list li img {
+    padding-right: 10px;
+}
+.tz_mulri_pn {
+    position: relative;
+}
+.tz_mulri_pn .sb-navigation-right {
+    position: absolute;
+    right: 0;
+}
+
+.slides .tz_multi_item, .owl-carousel .tz_multi_item {
+    padding: 0;
+}
+#slider .tz_link {
+    font-size: 20px;
+    line-height: 2.5;
+}
+.TzMultipurpose {
+    font-size: 15px;
+    line-height: 2;
+}
